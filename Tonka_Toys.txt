@@ -7,3 +7,17 @@ This document is intended as a repository of knowledge and informaton about Tonk
 Within this article, we shall be discussing dumper trucks, tractors and diggers.
 This document does not cater for Barbie Dolls and is not suitable for Kens.
 
+Trucks
+---------------------------------------
+This section is intended for discussions by Tonka truck enthusiasts.
+
+
+Tractors
+---------------------------------------
+As the name suggests, this section is devoted to Tonka tractors and agricultural farm equipment.
+In a future release, we plan to add a special section on combine harvesters
+
+Diggers
+--------------------------------------
+Earth moving equipment, diggers and tunnel boring equipment is documented and dicussed here.
+
