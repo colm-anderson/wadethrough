@@ -22,4 +22,11 @@ Diggers
 Earth moving equipment, diggers and tunnel boring equipment is documented and dicussed here.
 Personally I love to use a big yellow digger to clear out the garden flower patch.
 
+==================================================================================
+##   Toyshop Edition                                                            ##
+==================================================================================
+
+This is the toyshop branch, where we discuss and review different toyshops and vendors.
+
+
 
